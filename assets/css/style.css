@@ -1880,3 +1880,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.timeline-item-logo {
+  margin-bottom: 10px; /* Adjusts the space between the logo and text */
+}
+
+.timeline-logo {
+  height: 75px;  /* Adjust size as needed */
+  width: auto;
+}
